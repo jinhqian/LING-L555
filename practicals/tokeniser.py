@@ -8,7 +8,7 @@ while line:
     print('# sent_id = %d' % (index))
     index = index + 1
     print('# text = %s' % (line))
-    tokens = line.replace(',', ' ,').replace('.', ' . ').replace("'", " ' ").replace(':', ' :').replace('and', ' and ').replace('(', ' (').replace(')', ' )').replace('"', ' " ').replace('  ', ' ').split()
+    tokens = line.replace(',', ' ,').replace('.', ' . ').replace("'", " ' ").replace(':', ' :').replace('and', ' and ').replace('(', ' ( ').replace(')', ' )').replace('"', ' " ').replace('  ', ' ').split()
     token_id = 1
     for token in tokens:
         print('%d\t%s\t_\t_\t_\t_\t_\t_\t_\t_' % (token_id,token))
