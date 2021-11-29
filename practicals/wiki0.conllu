@@ -1,0 +1,104 @@
+# sent_id = 1
+# text = Hazem Naw (born 1 January 2000) is a Syrian tennis player.
+1	Hazem	_	NOUN	_	_	_	_	_	IPA=Hazɛm	
+2	Naw	_	NOUN	_	_	_	_	_	IPA=Naw	
+3	(	_	PUNCT	_	_	_	_	_	_	
+4	born	_	VERB	_	_	_	_	_	IPA=bɔrn	
+5	1	_	NUM	_	_	_	_	_	_	
+6	January	_	NOUN	_	_	_	_	_	IPA=Janʊarj	
+7	2000	_	NUM	_	_	_	_	_	_	
+8	)	_	PUNT	_	_	_	_	_	_	
+9	is	_	VERB	_	_	_	_	_	IPA=ɪs	
+10	a	_	DET	_	_	_	_	_	IPA=a	
+11	Syrian	_	ADJ	_	_	_	_	_	IPA=Sjrɪan	
+12	tennis	_	NOUN	_	_	_	_	_	IPA=tɛnnɪs	
+13	player	_	NOUN	_	_	_	_	_	IPA=plajɛr	
+14	.	_	PUNCT	_	_	_	_	_	_											
+# sent_id = 2
+# text = Naw has a career high ATP singles ranking of 1575 achieved on 5 April 2021.
+1	Naw	_	NOUN	_	_	_	_	_	IPA=Naw	
+2	has	_	VERB	_	_	_	_	_	IPA=has	
+3	a	_	DET	_	_	_	_	_	IPA=a	
+4	career	_	NOUN	_	_	_	_	_	IPA=tsarɛɛr	
+5	high	_	ADJ	_	_	_	_	_	IPA=hɪgh	
+6	ATP	_	NOUN	_	_	_	_	_	IPA=ATP	
+7	singles	_	NOUN	_	_	_	_	_	IPA=sɪnglɛs	
+8	ranking	_	NOUN	_	_	_	_	_	IPA=rankɪng	
+9	of	_	PREP	_	_	_	_	_	IPA=ɔf	
+10	1575	_	NUM	_	_	_	_	_	_	
+11	achieved	_	VERB	_	_	_	_	_	IPA=atʃɪɛvɛd	
+12	on	_	PREP	_	_	_	_	_	IPA=ɔn	
+13	5	_	NUM	_	_	_	_	_	_	
+14	April	_	NOUN	_	_	_	_	_	IPA=Aprɪl	
+15	2021	_	NUM	_	_	_	_	_	_	
+16	.	_	PUNCT	_	_	_	_	_	_	
+# sent_id = 3
+# text = He also has a career high ATP doubles ranking of 1459 achieved on 24 May 2021.
+1	He	_	PRON	_	_	_	_	_	IPA=Hɛ	
+2	also	_	ADV	_	_	_	_	_	IPA=alsɔ	
+3	has	_	VERB	_	_	_	_	_	IPA=has	
+4	a	_	DET	_	_	_	_	_	IPA=a	
+5	career	_	NOUN	_	_	_	_	_	IPA=tsarɛɛr	
+6	high	_	ADJ	_	_	_	_	_	IPA=hɪgh	
+7	ATP	_	NOUN	_	_	_	_	_	IPA=ATP	
+8	doubles	_	NOUN	_	_	_	_	_	IPA=dɔʊblɛs	
+9	ranking	_	NOUN	_	_	_	_	_	IPA=rankɪng	
+10	of	_	PREP	_	_	_	_	_	IPA=ɔf	
+11	1459	_	NUM	_	_	_	_	_	_	
+12	achieved	_	VERB	_	_	_	_	_	IPA=atʃɪɛvɛd	
+13	on	_	PREP	_	_	_	_	_	IPA=ɔn	
+14	24	_	NUM	_	_	_	_	_	_	
+15	May	_	NOUN	_	_	_	_	_	IPA=Maj	
+16	2021	_	NUM	_	_	_	_	_	_	
+17	.	_	PUNCT	_	_	_	_	_	_	
+# sent_id = 4
+# text = Naw represents Syria at the Davis Cup, where he has a W/L record of 1–2.
+1	Naw	_	NOUN	_	_	_	_	_	IPA=Naw	
+2	represents	_	VERB	_	_	_	_	_	IPA=rɛprɛsɛnts	
+3	Syria	_	NOUN	_	_	_	_	_	IPA=Sjrɪa	
+4	at	_	PREP	_	_	_	_	_	IPA=at	
+5	the	_	DET	_	_	_	_	_	IPA=thɛ	
+6	Davis	_	NOUN	_	_	_	_	_	IPA=Davɪs	
+7	Cup	_	NOUN	_	_	_	_	_	IPA=Cʊp	
+8	,	_	PUNCT	_	_	_	_	_	_	
+9	where	_	PRON	_	_	_	_	_	IPA=whɛrɛ	
+10	he	_	PRON	_	_	_	_	_	IPA=hɛ	
+11	has	_	VERB	_	_	_	_	_	IPA=has	
+12	a	_	DET	_	_	_	_	_	IPA=a	
+13	W/L	_	NOUN	_	_	_	_	_	_	
+14	record	_	NOUN	_	_	_	_	_	IPA=rɛtsɔrd	
+15	of	_	PREP	_	_	_	_	_	IPA=ɔf	
+16	1–2	_	NUM	_	_	_	_	_	_	
+17	.	_	PUNCT	_	_	_	_	_	_	
+# sent_id = 5
+# text = Due to the Syrian Civil War, Naw was forced out of Aleppo and moved to Beirut, Lebanon, but now plays tennis for local leagues in Germany.
+1	Due	_	VERB	_	_	_	_	_	IPA=Dʊɛ	
+2	to	_	PREP	_	_	_	_	_	IPA=tɔ	
+3	the	_	DET	_	_	_	_	_	IPA=thɛ	
+4	Syrian	_	ADJ	_	_	_	_	_	IPA=Sjrɪan	
+5	Civil	_	ADJ	_	_	_	_	_	IPA=Cɪvɪl	
+6	War	_	NOUN	_	_	_	_	_	IPA=War	
+7	,	_	PUNCT	_	_	_	_	_	_	
+8	Naw	_	NOUN	_	_	_	_	_	IPA=Naw	
+9	was	_	VERB	_	_	_	_	_	IPA=was	
+10	forced	_	VERB	_	_	_	_	_	IPA=fɔrtsɛd	
+11	out	_	PREP	_	_	_	_	_	IPA=ɔʊt	
+12	of	_	PREP	_	_	_	_	_	IPA=ɔf	
+13	Aleppo	_	NOUN	_	_	_	_	_	IPA=Alɛppɔ	
+14	and	_	CONJ	_	_	_	_	_	IPA=and	
+15	moved	_	VERB	_	_	_	_	_	IPA=mɔvɛd	
+16	to	_	PREP	_	_	_	_	_	IPA=tɔ	
+17	Beirut	_	NOUN	_	_	_	_	_	IPA=Bɛɪrʊt	
+18	,	_	PUNCT	_	_	_	_	_	_	
+19	Lebanon	_	NOUN	_	_	_	_	_	IPA=Lɛbanɔn	
+20	,	_	PUNCT	_	_	_	_	_	_	
+21	but	_	CONJ	_	_	_	_	_	IPA=bʊt	
+22	now	_	ADV	_	_	_	_	_	IPA=nɔw	
+23	plays	_	VERB	_	_	_	_	_	IPA=plajs	
+24	tennis	_	NOUN	_	_	_	_	_	IPA=tɛnnɪs	
+25	for	_	PREP	_	_	_	_	_	IPA=fɔr	
+26	local	_	ADJ	_	_	_	_	_	IPA=lɔtsal	
+27	leagues	_	NOUN	_	_	_	_	_	IPA=lɛagʊɛs	
+28	in	_	PREP	_	_	_	_	_	IPA=ɪn	
+29	Germany	_	NOUN	_	_	_	_	_	IPA=Gɛrmanj	
+30	.	_	PUNCT	_	_	_	_	_	_	
